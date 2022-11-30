@@ -3,21 +3,21 @@
 Wow, this is great!
 
 1. Clone the repo into whatever folder you would like:
-   git clone <url>
+   git clone [url]
 
 2. Get into the directory that was created from the clone from Terminal, Command Line, etc.
 
 3. If you want to create a branch and use it:
-   git checkout -b <name of branch>
+   git checkout -b [name of branch]
 
 4. Once you save your code files:
    git add .
 
 5. Next, add a commit message:
-   git commit -m <description of what you did>
+   git commit -m [description of what you did]
 
 6. To push the branch code to Github (or any other Git repo site):
-   git push origin <branch name>
+   git push origin [branch name]
 
 7. If you want to merge that branch into the main branch, use Github and go to the pull requests tab.
    Click on the Create Pull Request option, then use the Merge Pull Request option to merge into Main.
@@ -37,5 +37,5 @@ Tips:
 
 1. git checkout main
 2. git pull
-3. git checkout <name of your working branch>
+3. git checkout [name of your working branch]
 4. git merge main
